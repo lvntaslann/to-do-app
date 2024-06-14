@@ -1,6 +1,6 @@
 # TO-DO APP
 
-This is a simple TO-DO app created using Flutter. The app allows users to create, update, and delete tasks. The main objective is to demonstrate basic CRUD operations in Flutter using a local database.
+This is a simple TO-DO app created using Flutter. The app allows users to create, update, and delete tasks. The main objective is to demonstrate the use of a local database, Hive, for storing tasks.
 
 ## Video Demonstration
 
