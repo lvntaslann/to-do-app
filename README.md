@@ -4,7 +4,9 @@ This is a simple TO-DO app created using Flutter. The app allows users to create
 
 ## Video Demonstration
 
-You can watch the video demonstration of the app [here](https://github.com/lvntaslann/to-do-app/blob/main/videos/to_do_app_videos.webm).
+<video src="https://github.com/lvntaslann/to-do-app/blob/main/videos/to_do_app_videos.webm" controls>
+  Your browser does not support the video tag.
+</video>
 
 ## Dependencies
 
