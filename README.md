@@ -4,7 +4,7 @@ This is a simple TO-DO app created using Flutter. The app allows users to create
 
 ## Video Demonstration
 
-You can find the video demonstration of the app [here]("C:\Users\kurt_\Desktop\to-do-app\videos\to_do_app_videos.webm").
+You can watch the video demonstration of the app [here](https://github.com/lvntaslann/to-do-app/blob/main/videos/to_do_app_videos.webm).
 
 ## Dependencies
 
