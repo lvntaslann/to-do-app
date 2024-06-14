@@ -1,1 +1,0 @@
- C:\\Users\\kurt_\\Desktop\\mitchi-poko-eductation\\to_do_app\\.dart_tool\\flutter_build\\4e63b4cd5c77f2432044239425ab6403\\native_assets.yaml: 
