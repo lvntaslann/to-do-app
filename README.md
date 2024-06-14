@@ -4,7 +4,7 @@ This is a simple TO-DO app created using Flutter. The app allows users to create
 
 ## Video Demonstration
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+You can watch the video demonstration by clicking [here](https://drive.google.com/file/d/1R7TNBqMUUFIUEdWc8719flOb4IZ9-H8j/view?usp=sharing).
 
 ## Dependencies
 
